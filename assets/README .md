@@ -1,5 +1,5 @@
 
-<img src="assets/icons/SavDm.gif">
+<img src="icons/SavDm.gif">
 
 # Привет, меня зовут Дмитрий! 
 ---
