@@ -47,11 +47,11 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="icons/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="icons/mysql-plain-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="icons/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="icons/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
-  <img src="icons/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="assets/icons/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="assets/icons/mysql-plain-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="assets/icons/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="assets/icons/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
+  <img src="assets/icons/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <!-- <img src="icons/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp; -->
 </div>
 
